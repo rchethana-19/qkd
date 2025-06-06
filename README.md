@@ -11,7 +11,7 @@ The BB84 protocol is the first quantum cryptography protocol. It uses:
 
 to generate a secret key over a quantum channel. If an eavesdropper (Eve) tries to intercept the communication, her actions introduce detectable errors.
 
-## 📁 Project Structure
+## Project Structure
 
 This script includes:
 
